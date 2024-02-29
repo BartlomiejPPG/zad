@@ -1,0 +1,17 @@
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\bin\Debug\net7.0\NBP.exe
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\bin\Debug\net7.0\NBP.deps.json
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\bin\Debug\net7.0\NBP.runtimeconfig.json
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\bin\Debug\net7.0\NBP.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\bin\Debug\net7.0\NBP.pdb
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.AssemblyInfoInputs.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.AssemblyInfo.cs
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.csproj.CoreCompileInputs.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\refint\NBP.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.pdb
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.genruntimeconfig.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\ref\NBP.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.csproj.AssemblyReference.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\NBP\NBP\obj\Debug\net7.0\NBP.csproj.CopyComplete

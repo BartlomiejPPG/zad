@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUrxVOHlwncH11sAIOGQQD6YYOYHVlDrTxBw2/kvk+dKiiOC4JN2HKxpwapoG2OPy7CSUDu15ZU22TKo+1KdFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Praktyka\\Desktop\\praktyki3P2\\NBP\\NBP\\NBP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praktyka\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
